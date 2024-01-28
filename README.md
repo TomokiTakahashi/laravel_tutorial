@@ -1,5 +1,7 @@
 # laravel_tutorial
 
+
+
 ## Laravelを使ってブログサイトを作成
 
 
